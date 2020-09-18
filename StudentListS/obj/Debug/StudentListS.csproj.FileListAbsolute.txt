@@ -1,0 +1,18 @@
+C:\Users\natan\Desktop\FIMEE\Semestre 5\Administracion de datos\Proyectos\StudentListS\StudentListS\bin\Debug\StudentListS.exe.config
+C:\Users\natan\Desktop\FIMEE\Semestre 5\Administracion de datos\Proyectos\StudentListS\StudentListS\bin\Debug\StudentListS.exe
+C:\Users\natan\Desktop\FIMEE\Semestre 5\Administracion de datos\Proyectos\StudentListS\StudentListS\bin\Debug\StudentListS.pdb
+C:\Users\natan\Desktop\FIMEE\Semestre 5\Administracion de datos\Proyectos\StudentListS\StudentListS\obj\Debug\StudentListS.csprojResolveAssemblyReference.cache
+C:\Users\natan\Desktop\FIMEE\Semestre 5\Administracion de datos\Proyectos\StudentListS\StudentListS\obj\Debug\StudentListS.StudentList.resources
+C:\Users\natan\Desktop\FIMEE\Semestre 5\Administracion de datos\Proyectos\StudentListS\StudentListS\obj\Debug\StudentListS.Properties.Resources.resources
+C:\Users\natan\Desktop\FIMEE\Semestre 5\Administracion de datos\Proyectos\StudentListS\StudentListS\obj\Debug\StudentListS.csproj.GenerateResource.Cache
+C:\Users\natan\Desktop\FIMEE\Semestre 5\Administracion de datos\Proyectos\StudentListS\StudentListS\obj\Debug\StudentListS.exe
+C:\Users\natan\Desktop\FIMEE\Semestre 5\Administracion de datos\Proyectos\StudentListS\StudentListS\obj\Debug\StudentListS.pdb
+C:\Users\natan\Desktop\FIMEE\LedesmaServicio\StudentListS\StudentListS\bin\Debug\StudentListS.exe.config
+C:\Users\natan\Desktop\FIMEE\LedesmaServicio\StudentListS\StudentListS\bin\Debug\StudentListS.exe
+C:\Users\natan\Desktop\FIMEE\LedesmaServicio\StudentListS\StudentListS\bin\Debug\StudentListS.pdb
+C:\Users\natan\Desktop\FIMEE\LedesmaServicio\StudentListS\StudentListS\obj\Debug\StudentListS.csprojResolveAssemblyReference.cache
+C:\Users\natan\Desktop\FIMEE\LedesmaServicio\StudentListS\StudentListS\obj\Debug\StudentListS.StudentList.resources
+C:\Users\natan\Desktop\FIMEE\LedesmaServicio\StudentListS\StudentListS\obj\Debug\StudentListS.Properties.Resources.resources
+C:\Users\natan\Desktop\FIMEE\LedesmaServicio\StudentListS\StudentListS\obj\Debug\StudentListS.csproj.GenerateResource.Cache
+C:\Users\natan\Desktop\FIMEE\LedesmaServicio\StudentListS\StudentListS\obj\Debug\StudentListS.exe
+C:\Users\natan\Desktop\FIMEE\LedesmaServicio\StudentListS\StudentListS\obj\Debug\StudentListS.pdb
